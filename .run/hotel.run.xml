@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="hotel" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="HotelReservationApp" />
+    <module name="JavaReservation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
